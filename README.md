@@ -148,9 +148,6 @@ O objetivo do AquaRescue é fornecer uma interface centralizada para coleta, cá
 }
 ```
 
-# 🚀 Deploy na Nuvem
-[inserir link aqui]
-
 # 📑 Documentação da API
 * A API está documentada via Swagger e pode ser acessada em:
 
